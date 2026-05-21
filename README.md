@@ -12,16 +12,6 @@ This project covers the complete ML workflow including:
 
 ---
 
-# 🚀 Live Demo
-
-Add your deployed Streamlit app link here:
-
-```text
-https://your-streamlit-app-link.streamlit.app
-```
-
----
-
 # 📌 Project Overview
 
 Customer churn prediction is one of the most important business problems in the banking industry. Retaining existing customers is often more cost-effective than acquiring new ones.
